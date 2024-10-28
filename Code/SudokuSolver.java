@@ -60,7 +60,7 @@ public class SudokuSolver {
 
 
     public static void main(String[] args) {
-    String fileName = "Grille/grilleTD.txt"; // Nom du fichier contenant la grille
+    String fileName = "Sudoku/Grille/grilleF.txt"; // Nom du fichier contenant la grille
     int[] linearGrid = new int[GRID_SIZE * GRID_SIZE]; // Tableau linéaire de 81 éléments
 
     // Lecture de la grille depuis un fichier
