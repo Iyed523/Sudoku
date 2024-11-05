@@ -16,9 +16,10 @@ se déplacer dans le repertoire Code avec la commande cd
 java -cp . SudokuSolver
 Lorsque le programme démarre, il vous demandera de remplir les cases vides si la grille n'est pas complètement résolue.
 pour faire ceci il faut entrer une combinaison de 3 chiffre uniquement par exemple : 1 1 1 
-Cela palce a la ligne 1 colone le chiffre 1 donc a la premiere case de la grille
+Cela palce a la ligne 1 colone 1 le chiffre 1 donc a la premiere case de la grille
 Si vous voulez rajouter une grille à résoudre il faut la placer dans le dossier Grille
 
 
 
 Loghmari Iyed
+Bousslama Khalil
